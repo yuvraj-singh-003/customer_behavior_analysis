@@ -5,7 +5,7 @@ from customers group by gender;
 
 -- total revenue from male is 157890 and from female is 75191
 
--- 2. which customers used a discount but still spent more than average purchase amount
+-- 2. which customers used a discount still spent more than average purchase amount
 
 select customer_id, purchase_amount
 from customers
@@ -15,7 +15,7 @@ select COUNT(*) as discount_applied_more_than_avg_purchase
 from customers
 where discount_applied = 'YES' and purchase_amount >= (select avg(purchase_amount) from customers);
 
--- total 839 customers customers used a discount and spent more than average purchase amount
+-- total 839 customers customers used a discount still spent more than average purchase amount
 
 -- 3. Top 5 product with the highest average review rating
 
@@ -115,7 +115,7 @@ where previous_purchases > 5
 group by subscription_status;
 
 -- we can see that only 958 repeat buyers subscribe where as most of repeat buyers do not subscribe
--- it indicates that our subscription offer is not very attractive
+-- it indicates that the subscription offer is not very attractive
 
 -- 10. revenue contribution of each age group
 
