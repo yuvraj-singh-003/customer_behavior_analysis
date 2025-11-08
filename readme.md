@@ -1,6 +1,6 @@
 # Customer Behavior Analysis
 
-This repository presents a comprehensive analysis of customer behavior and related business questions using SQL, Python, and reporting tools.
+This repository presents a comprehensive analysis of customer behavior and related business questions using SQL, Python, and Power Bi.
 
 ---
 
