@@ -15,7 +15,7 @@ This repository presents a comprehensive analysis of customer behavior and relat
 
 ---
 
-- ## Project Files
+### Project Files
   
 - [customer_behavior_analysis.ipynb](./customer_behavior_analysis.ipynb)  
   Jupyter Notebook covering data cleaning, tranformation, and feature engineering.
