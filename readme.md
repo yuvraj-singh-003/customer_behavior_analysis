@@ -26,6 +26,6 @@ This project presents a comprehensive analysis of customer behavior and related 
 - [customer_behavior_report.pdf](./customer_behavior_report.pdf)  
   Final PDF report summarizing the findings, insights, and actionable recommendations from the analysis.
 
-  - [customer_behavior_analysis_ppt.pdf](./customer_behavior_analysis_ppt.pdf)  
+- [customer_behavior_analysis_ppt.pdf](./customer_behavior_analysis_ppt.pdf)  
   Final PPT with the main findings, insights, and what actions to take next.
 
